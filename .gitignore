@@ -3,6 +3,8 @@ build/
 install/
 log/
 
+.DS_Store
+
 # imported ROS projects
 easy_handeye2/
 ros2_aruco/
